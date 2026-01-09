@@ -11,7 +11,7 @@ description: "Blogs"
 baseurl: "/blogs"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://foxdocs.github.io/"
+url: "https://foxdocs.github.io/blogs"
 
 # Favicon
 favicon: images/favicon.ico
@@ -24,11 +24,11 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /about/
+    url: /blogs/about/
   - text: Style Guide
-    url: /style-guide/
+    url: /blogs/style-guide/
   - text: Tags
-    url: /tags/
+    url: /blogs/tags/
   - text: Download
     url: https://github.com/foxdocs/blogs
 
