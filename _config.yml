@@ -8,7 +8,7 @@ title: "Foxware"
 description: "Blogs"
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: "/blogs"
+baseurl: "/blogs/"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
 url: "https://foxdocs.github.io/blogs/"
