@@ -22,7 +22,7 @@ google_analytics: ""
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: Home
-    url: /blogs
+    url: /blogs/
   - text: About
     url: /blogs/about
   - text: Style Guide
