@@ -9,19 +9,19 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "Foxware"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "Blogs"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+url: "https://foxdocs.github.io/blogs"
 
 # Favicon
-favicon: images/favicon.png
+favicon: images/favicon.ico
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 google_analytics: ""
@@ -37,17 +37,17 @@ navigation:
   - text: Tags
     url: /tags/
   - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+    url: https://github.com/foxdocs/blogs
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+disqus: 
 
 # Colors
 accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  content: "&copy; All rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
   has_social: true
 
 # Plugins
