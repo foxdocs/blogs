@@ -24,11 +24,11 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /blogs/about/
+    url: /blogs/about
   - text: Style Guide
-    url: /blogs/style-guide/
+    url: /blogs/style-guide
   - text: Tags
-    url: /blogs/tags/
+    url: /blogs/tags
   - text: Download
     url: https://github.com/foxdocs/blogs
 
