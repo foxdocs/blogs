@@ -1,10 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site language
 lang: en-US
 
@@ -15,7 +8,7 @@ title: "Foxware"
 description: "Blogs"
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: ""
+baseurl: "/blogs"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
 url: "https://foxdocs.github.io/blogs"
@@ -29,13 +22,13 @@ google_analytics: ""
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: Home
-    url: /
+    url: /blogs/
   - text: About
-    url: /about/
+    url: /blogs/about
   - text: Style Guide
-    url: /style-guide/
+    url: /blogs/style-guide
   - text: Tags
-    url: /tags/
+    url: /blogs/tags
   - text: Download
     url: https://github.com/foxdocs/blogs
 
