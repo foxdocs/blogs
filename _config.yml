@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Puru-Logs🫶
-email: purusharth19malik@gmail.com
+title: Foxware
+email: doradaveri@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I write about any rabbit hole that I go into twice a month.
-baseurl: "" # the subpath of your site, e.g. /blog
+Blogs with code
+baseurl: "" # the subpath of your site, e.g. /blogs
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: purusharth-malik-33a31616b
-github_username:  purusharthmalik
+linkedin_username: 
+github_username:  
 
 # Build settings
 markdown: kramdown
@@ -35,7 +35,7 @@ include:
 theme: minima
 plugins:
   - jekyll-feed
-google_analytics: G-DCRJQXXBZP
+google_analytics: 
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
