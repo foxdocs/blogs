@@ -25,12 +25,12 @@ navigation:
     url: /blogs/
   - text: About
     url: /blogs/about
-  - text: Style Guide
-    url: /blogs/style-guide
   - text: Tags
     url: /blogs/tags
   - text: Download
-    url: https://github.com/foxdocs/blogs
+    url: https://github.com/foxdocs/blogs/code
+  #  text: Style Guide
+  #  url: /blogs/style-guide
 
 # The shortname for your Disqus site to enable comments.
 disqus: 
